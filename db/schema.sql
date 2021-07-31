@@ -16,12 +16,16 @@ CREATE TABLE role (
     references department(id)
 );
 
+
 CREATE TABLE employees (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
     first_name VARCHAR(30) NOT NULL,
     last_name VARCHAR(30) NOT NULL,
     role_id INTEGER NOT NULL,
-    manager_id INTEGER
+    manager_id INTEGER,
+    department_id INTEGER NOT NULL,
+    foreign key (department_id)
+    references department(id)
     
     
 );
