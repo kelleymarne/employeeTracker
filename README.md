@@ -35,9 +35,9 @@ Getting this application to even work has been the greatest victory for me. I wa
 
 ## Resources 
 
-<a href="https://github.com/kelleymarne/ReadMe-generator">GitHub Repo</a>
+<a href="https://github.com/kelleymarne/employeeTracker">GitHub Repo</a>
 
-<a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
+<a href="https://youtu.be/FlqP8rlGcX4"> YouTube</a>
 
 <a href="https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiLjJ7fosLvAhWXW80KHawRD_oQPAgI">Google</a>
 
